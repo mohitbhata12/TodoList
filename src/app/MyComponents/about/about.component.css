@@ -1,0 +1,11 @@
+.card{
+    display: contents;
+}
+.card-img, .card-img-bottom, .card-img-top {
+    width: 60%;
+    margin-left: 200px;
+}
+
+p{
+    font-size: larger;
+}
